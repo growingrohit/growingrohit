@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, I'm Rohit Chaudhari 👋
 
 **Python Backend Developer | Django | Django REST Framework | PostgreSQL**
@@ -17,6 +16,7 @@ I enjoy building reliable backend systems, REST APIs, database-driven applicatio
 
 ### 💼 Experience Highlights
 
+- Built schemas for data storage.
 - Developed REST APIs and microservices.
 - Integrated weather APIs processing 100k+ data points daily.
 - Worked on automated workflows, notifications, and database-driven applications.
@@ -25,7 +25,7 @@ I enjoy building reliable backend systems, REST APIs, database-driven applicatio
 ### 📫 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/rohit-k-chaudhari)
-- [EMAIL](rohitmkchaudhari@gmail.com)
+- [Email](rohitmkchaudhari@gmail.com)
 
 *Always learning, building, and improving as a backend engineer.*
 
